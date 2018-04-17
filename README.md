@@ -1,1 +1,1 @@
-# MC-4C_Super-resolution Microscopy and corresponding images
+# MC-4C: Super-resolution microscopy and corresponding images
